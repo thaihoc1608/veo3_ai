@@ -1,0 +1,5 @@
+{
+  "name": "Veo Video Workflow Builder",
+  "description": "Create a video from a series of text prompts. Enter your scenarios, generate video clips for each, and preview the final result.",
+  "requestFramePermissions": []
+}
